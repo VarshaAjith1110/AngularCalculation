@@ -32,7 +32,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-app.component.html
+
 
 ## OUTPUT:
 
